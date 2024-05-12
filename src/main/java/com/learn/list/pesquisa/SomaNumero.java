@@ -55,8 +55,6 @@ public class SomaNumero {
         somaNumero.adicionarNumeros(0);
         somaNumero.adicionarNumeros(-2);
 
-
-
         System.out.println("Números adicionados: ");
         somaNumero.exibirNumeros();
 
